@@ -1,0 +1,18 @@
+.dashboard {
+    height: 300px;
+    margin: 0 auto;
+    width: 90%;
+    background: #dedede;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  .logout {
+    position: absolute;
+    right: 20px;
+    background: green;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
